@@ -1,0 +1,5 @@
+{
+  "name": "NSPIRE Inspection",
+  "description": "A Progressive Web App for conducting NSPIRE property inspections and calculating scores automatically.",
+  "requestFramePermissions": []
+}
