@@ -1,5 +1,7 @@
 {
-  "name": "NSPIRE Inspection",
-  "description": "A Progressive Web App for conducting NSPIRE property inspections and calculating scores automatically.",
-  "requestFramePermissions": []
+  "name": "Techspector Pro",
+  "description": "A Progressive Web App for conducting modern property inspections with AI-powered tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
